@@ -5,4 +5,4 @@
 
 🔧 In addition to my academic pursuits, I actively contribute to several open-source projects, such as [Blender](https://projects.blender.org/Weikang-Qiu?tab=activity).
 
-Check my [[CV]](https://github.com/Boltzmachine/Boltzmachine/blob/master/Weikang_CV-1.pdf)
+Check my [[CV]](https://github.com/Boltzmachine/Boltzmachine/blob/master/Weikang_CV.pdf)
